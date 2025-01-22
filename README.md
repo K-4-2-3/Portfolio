@@ -1,3 +1,3 @@
-# Portfolio
+# Projects
 
-[Wiz I.T] (https://gamerspud.itch.io/wiz-it)
+[Wiz I.T. (Capstone Project)] (https://gamerspud.itch.io/wiz-it)
